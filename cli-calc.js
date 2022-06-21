@@ -75,6 +75,5 @@ readline.question("What do you wanna do today?: ", choice => {
   else{
     console.log(`Invalid choice`)
     readline.close()
-    readline.close()
   }
 })
